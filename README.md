@@ -1,6 +1,5 @@
 # Assignment 2
 
-Roll number: 214101023
 Name: Jay Khatri
 
 # Assumption
